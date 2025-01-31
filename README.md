@@ -8,8 +8,13 @@ Formada em Gestão Financeira | Eixo em Negócios
 
 Meu foco no momento está em Desenvolvimento de Software
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=synthwave"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=synthwave"/>
 
+❤️ Let's get connected:
+
+🛠️ Technologies e Tools I use:
+
+<img align="center" alt="Andressa-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
 
 <!--
 **Nadia-Marques/Nadia-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
