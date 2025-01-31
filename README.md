@@ -1,6 +1,9 @@
 ## Hi !
+
 Eu sou Nadia Marques
+
 Analista de Qualidade de Sistemas e Aplicações
+
 Formada em Gestão Financeira | Eixo em Negócios
 
 Meu foco no momento está em Desenvolvimento de Software
