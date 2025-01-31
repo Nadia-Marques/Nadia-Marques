@@ -8,7 +8,13 @@ Formada em Gestão Financeira | Eixo em Negócios
 
 Meu foco no momento está em Desenvolvimento de Software
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=highcontrast"/>
+
+❤️ Let's get connected:
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+
+🛠️ Technologies e Tools I use:
 
 
 <!--
