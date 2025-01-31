@@ -1,4 +1,4 @@
-## Hi !
+## 👩‍💻 Hi !
 
 Eu sou Nadia Marques
 
@@ -7,6 +7,9 @@ Analista de Qualidade de Sistemas e Aplicações
 Formada em Gestão Financeira | Eixo em Negócios
 
 Meu foco no momento está em Desenvolvimento de Software
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=tokyonight"/>
 
 
 <!--
