@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi !
+Eu sou Nadia Marques
+Analista de Qualidade de Sistemas e Aplicações
+Formada em Gestão Financeira | Eixo em Negócios
+
+Meu foco no momento está em Desenvolvimento de Software
+
 
 <!--
 **Nadia-Marques/Nadia-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
