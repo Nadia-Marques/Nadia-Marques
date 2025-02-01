@@ -6,6 +6,8 @@ Analista de Qualidade de Sistemas e Aplicações
 
 Formada em Gestão Financeira | Eixo em Negócios
 
+Cursando Engenharia da Computação 
+
 Meu foco no momento está em Desenvolvimento de Software Embarcado
 
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=synthwave"/>
@@ -13,11 +15,14 @@ Meu foco no momento está em Desenvolvimento de Software Embarcado
  
  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=synthwave"/>
 
--❤️ Let's get connected:
+
+ 
+
+❤️ Let's get connected:
 
 
 
--🛠️ Technologies e Tools I use:
+🛠️ Technologies e Tools I use:
 
 
 <!--
