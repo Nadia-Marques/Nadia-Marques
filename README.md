@@ -10,10 +10,7 @@ Cursando Engenharia da Computação
 
 Meu foco no momento está em Desenvolvimento de Software Embarcado
 
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=synthwave"/>
- 
- 
- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=synthwave"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=nadia-marques&show_icons=true&theme=synthwave"/><img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadia-marques&layout=compact&theme=synthwave"/>
 
 
  
